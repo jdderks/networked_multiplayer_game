@@ -1,0 +1,5 @@
+This was made following a tutorial from Jonathan Merefield,
+my intention was to just follow a tutorial on networking word-by-word but this one is
+old and deprecated.
+
+Tutorial followed: https://www.youtube.com/watch?v=bna50NEdaGM
